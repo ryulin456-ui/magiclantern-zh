@@ -1,2 +1,3 @@
-# magic-lantern-
-对2025年magiclantern项目的所有产物进行了汉化
+# magiclantern-zh
+对2025年magiclantern项目的所有产物进行了汉化，部分机型上机测试完美验收
+单反时代结束了，不过大家仍可以玩得愉快
