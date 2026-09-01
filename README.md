@@ -5,7 +5,7 @@
 <h1 align="center">Magic Lantern 中文汉化项目</h1>
 
 <p align="center">
-  让经典佳能相机重新焕发活力
+  榨干老单反性能 汉化者ryulin456
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ## 📷 项目介绍
 
-Magic Lantern 是针对 Canon EOS 系列相机开发的第三方增强固件。
+Magic Lantern 是针对 Canon 单反 系列相机开发的第三方增强固件。
 
 本项目旨在为中文用户提供更加友好的使用体验，  
 对 Magic Lantern 相关内容进行了中文汉化与整理，降低中文用户的使用门槛。
@@ -68,9 +68,9 @@ Magic Lantern 是针对 Canon EOS 系列相机开发的第三方增强固件。
 ```bash
 git clone https://github.com/ryulin456-ui/magiclantern-zh.git
 2. 获取汉化文件
-进入仓库后，找到对应的汉化资源文件，并根据你的机型选择适配内容。
+进入仓库后，找到对应的汉化资源文件，并根据你的机型选择适配内容，魔灯版本需与相机版本一致，如不一致需升降机。
 3. 复制到存储卡
-将对应文件复制到相机 SD 卡中 Magic Lantern 的相关目录。
+将对应文件复制到相机 SD 卡中 根目录。
 4. 启动相机
-按照 Magic Lantern 的正常启动方式开机，进入菜单后即可查看中文界面效果。
+升级固件页面选择确定升级，然后选择魔灯固件包。
 安装前建议先备份原文件，避免误操作。
