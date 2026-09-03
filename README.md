@@ -2,10 +2,10 @@
   <img src="imagesbanner.png" alt="Magic Lantern 中文汉化项目 Banner" width="100%">
 </p>
 
-<h1 align="center">Magic Lantern 中文汉化项目</h1>
+<h1 align="center">Magic Lantern 中文汉化版</h1>
 
 <p align="center">
-  榨干老单反性能 汉化者ryulin456
+  榨干老单反性能 全系列汉化
 </p>
 
 <p align="center">
