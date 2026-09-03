@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-social-preview.png" alt="Magic Lantern 中文汉化项目" width="100%" />
+  <img src="imagesbanner.png" alt="Magic Lantern 中文汉化项目" width="100%" />
 </p>
 
 <h1 align="center">Magic Lantern 中文汉化版</h1>
