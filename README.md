@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" alt="Magic Lantern 中文汉化项目 Banner" width="100%">
+  <img src="images/banner.png" alt="Magic Lantern 中文汉化项目 Banner" width="100%">
 </p>
 
 <h1 align="center">Magic Lantern 中文汉化项目</h1>
