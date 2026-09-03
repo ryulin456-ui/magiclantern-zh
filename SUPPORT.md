@@ -3,7 +3,7 @@
 这个项目的汉化、构建与实机测试需要持续投入时间，也会产生存储卡、测试设备和计算资源等成本。若它对你有帮助，欢迎通过微信自愿支持项目继续维护。
 
 <p align="center">
-  <img src="images/support-wechat.jpg" alt="微信赞赏码" width="360" />
+  <img src="support-wechat.jpg" alt="微信赞赏码" width="360" />
 </p>
 
 <p align="center">微信扫码支持</p>
